@@ -1,4 +1,4 @@
-# Parallax City Website
+# Pink City Website
 
 Welcome to the Parallax City Website project. This website features a stunning parallax design that creates an immersive and visually captivating experience for visitors.
 ## Features
